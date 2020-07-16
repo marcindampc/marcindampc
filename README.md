@@ -1,4 +1,4 @@
-## Greetings! 👋
+## Greetings humans! 👋
 ### I am
 Marcin. I'm a constant learner. I'm also a husband and a father of four awesome kids!
 
