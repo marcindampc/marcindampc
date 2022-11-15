@@ -1,12 +1,13 @@
 ## Greetings humans! 👋
 ### I am
-Marcin. I'm a constant learner. I'm also a husband and a father!
+Marcin ...a constant learner, also a husband and a father.
 
 ### I am currently learning
 TypeScript & React
 
 ### In near future I would like to 
-get to know Node.js more, and continue on my way to become a Fullstack Software Engineer
+...get to know Node.js more, and
+...continue on my way to become a Fullstack Software Engineer
 
 ...also I'm planning to start contribute to open-source.
 
