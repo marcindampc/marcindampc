@@ -9,8 +9,6 @@ TypeScript & React
 ...get to know Node.js more, and
 ...continue on my way to become a Fullstack Software Engineer
 
-...also I'm planning to start contribute to open-source.
-
 
 #### Pax et Bonum!
 <!--
