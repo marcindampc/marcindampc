@@ -20,12 +20,6 @@ I believe in human accountability, strict spec-driven workflows, and fighting co
 - **Methodologies:** AIDD (AI-Driven Development), Spec-Driven Design, Zero-Trust AI Output Auditing.
 - **Architecture:** Domain-Driven Design (DDD), Clean Architecture, Anti-Corruption Layers / Abstract Adapters.
 - **Mindset:** Problem Solving > Syntax. I treat AI tools as highly efficient junior developers while maintaining absolute ownership of the codebase.
-
-### 📊 My GitHub Stats
-
-![Marcin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcindampc&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcindampc&layout=compact&theme=dark&hide_border=true)
 ---
 *Continuous learning in progress... 🚀*
 
