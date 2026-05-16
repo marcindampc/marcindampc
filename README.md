@@ -23,13 +23,9 @@ I believe in human accountability, strict spec-driven workflows, and fighting co
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcindampc&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Marcin's GitHub Stats" />
-</p>
+![Marcin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcindampc&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcindampc&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcindampc&layout=compact&theme=dark&hide_border=true)
 ---
 *Continuous learning in progress... 🚀*
 
