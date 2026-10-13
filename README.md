@@ -1,25 +1,43 @@
-# Hi there, I'm Marcin! 👋
+# Hi, I'm Marcin 👋
 
-### 💻 Software Engineer | AI-Driven Development (AIDD) Enthusiast
+### Frontend Developer · JavaScript, TypeScript, React
 
-I am a software developer focused on strengthening my core engineering skills and exploring structured development methodologies. Right now, I'm shifting from just writing code to understanding software design at a deeper level.
-I believe in human accountability, strict spec-driven workflows, and fighting cognitive debt at every level of the software lifecycle.
+I'm a frontend developer with 6+ years of experience building production web applications in JavaScript, TypeScript and React. Right now I work on a multi-site news platform. Based in Gdańsk, Poland.
 
 ---
 
-### 🚀 What I'm working on right now
-- **Private Brain:** A private development repository designed to maximize LLM determinism and implement bulletproof, spec-driven engineering pipelines.
-- Deep diving into **Domain-Driven Design (DDD)** and modular software architectures to prevent aggregate bloat and ensure long-term SaaS survival.
+### 🧰 What I work with
 
-### 🛠️ My Approach
-- Moving away from "just making it work" towards understanding the *why* behind architectural decisions.
-- Focused on writing readable, well-commented code and avoiding cognitive debt.
+- **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS / SCSS
+- **Frontend:** React, Next.js, Redux, styled-components, Web Components, Storybook
+- **Testing:** Jest, React Testing Library
+- **Tooling:** Webpack, Git, Docker, plus working-level experience with AWS and CI/CD (Drone, GitHub Actions)
+- **Also:** Node.js, Strapi (headless CMS), PostgreSQL, web accessibility
+
+### 🔨 What I've been building
+
+- Embeddable React widgets (Web Components) and shared UI libraries with per-brand theming.
+- Multi-step forms with validation (Formik, Yup), including a sign-up flow across three brands.
+- A Next.js corporate website, upgraded to Next.js 16 and React 19, with accessibility audits & improvements.
+- A CMS migration from Strapi 3 to Strapi 5, including adapting the Next.js frontend to the new API.
+
+### 📚 Currently learning
+
+- TypeScript in depth
+- Frontend architecture and the reasoning behind design decisions
+- AI: private development repository designed to maximize LLM determinism and implement bulletproof, spec-driven engineering pipelines
+
+### 🤝 How I like to work
+
+- Readable code, small pull requests, tests where they matter.
+- Understanding *why* before choosing a tool or a pattern.
+- Working closely with designers, QA and backend engineers.
 - Treat AI as a tool for leverage, while keeping full ownership of the logic.
 
-### 🧠 Core Philosophy & Skills
-- **Methodologies:** AIDD (AI-Driven Development), Spec-Driven Design, Zero-Trust AI Output Auditing.
-- **Architecture:** Domain-Driven Design (DDD), Clean Architecture, Anti-Corruption Layers / Abstract Adapters.
-- **Mindset:** Problem Solving > Syntax. I treat AI tools as highly efficient junior developers while maintaining absolute ownership of the codebase.
+---
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/marcindampc)
+
 ---
 *Continuous learning in progress... 🚀*
 
